@@ -3,7 +3,7 @@
 A mock-up for a VS Code Custom Text Editor to test the communication with
 the [Miranum Copilot](https://github.com/FlowSquad/miranum-copilot).
 
-1. Export the API of the custom text editor
+1. Export the API of the [custom text editor](./src/extension.ts)
     ```typescript
     // extension.ts
     const api = {
